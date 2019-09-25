@@ -1,6 +1,5 @@
 /*
  * TIMER.c
- *
  *  Created on: Sep 22, 2019
  *      Author: Rafaat
  */
